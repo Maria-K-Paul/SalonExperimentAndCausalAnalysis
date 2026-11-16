@@ -1,0 +1,15 @@
+table,issue,rows_affected,share_of_table,fix
+clients,Gender coded 6 different ways (F/Female/female/M/Male/male) or blank,11369,0.1573,Mapped to F / M; blanks -> 'Unknown'
+clients,Age band blank or written '55 +',3823,0.0529,Standardised to 18-24 ... 55+; blanks -> 'Unknown'
+appointments,Exact duplicate rows from till sync,1516,0.005,Dropped (kept first copy)
+appointments,"Two outlets export dates as dd-mm-yyyy, the rest as ISO",36143,0.1192,Parsed each format explicitly (no day/month guessing)
+appointments,"Booking channel spelt 9 ways (e.g. 'walk in', 'WALKIN', 'Mobile App')",41090,0.1355,Mapped to Walk-in / Phone / WhatsApp / App
+appointments,Walk-ins recorded without a client ID,111620,0.368,Kept for outlet-level revenue and visits; excluded from client-level retention and from the A/B test
+appointments,Stylist ID in lower case or with stray spaces,6549,0.0216,Trimmed and upper-cased
+appointments,Stylist ID missing,4729,0.0156,Left blank; only used for stylist-level breakdowns
+appointments,Status spelt 7 ways (Completed/completed/Done/Cancelled/CANCELLED/Canceled/No Show),29576,0.0975,Mapped to completed / cancelled / no_show
+appointments,No-shows (and <2h late cancellations) logged as 'Cancelled',18567,0.0612,Re-classified with cancellation timestamp + remarks (see outcome_rule)
+service_lines,Amounts stored as text with thousands separators (one outlet),15565,0.0339,Stripped separators and converted to numbers
+service_lines,"Service names differ by outlet: 2,195 spellings of 38 services (incl. typos, case, spacing)",344217,0.7507,"Alias table + fuzzy matching (typos, transpositions); 100% of lines mapped"
+service_lines,Price far from the outlet median for its mapped service (possible mis-mapping),0,0.0,Reviewed; none are fuzzy matches
+product_sales,Product sales without an appointment ID,13731,0.3515,"2,759 re-linked by client + outlet + date; the rest kept as counter (retail-only) sales"

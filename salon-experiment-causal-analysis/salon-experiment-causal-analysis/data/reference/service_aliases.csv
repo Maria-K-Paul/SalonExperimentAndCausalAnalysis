@@ -1,0 +1,153 @@
+alias,canonical_service,category,is_combo
+Haircut - Women,Haircut - Women,Hair,False
+Ladies Hair Cut,Haircut - Women,Hair,False
+HAIRCUT (F),Haircut - Women,Hair,False
+Women's Haircut,Haircut - Women,Hair,False
+Blow Dry,Blow Dry,Hair,False
+Blowdry,Blow Dry,Hair,False
+BLOW DRY/STYLING,Blow Dry,Hair,False
+Blow-dry & Styling,Blow Dry,Hair,False
+Hair Spa,Hair Spa,Hair,False
+Hairspa,Hair Spa,Hair,False
+HAIR SPA TREATMENT,Hair Spa,Hair,False
+Spa - Hair,Hair Spa,Hair,False
+Root Touch-up,Root Touch-up,Hair,False
+Root Touchup,Root Touch-up,Hair,False
+ROOT TOUCH UP (AMMONIA FREE),Root Touch-up,Hair,False
+Hair Colour - Roots,Root Touch-up,Hair,False
+Global Hair Colour,Global Hair Colour,Hair,False
+Global Colour,Global Hair Colour,Hair,False
+GLOBAL HAIR COLOR,Global Hair Colour,Hair,False
+Hair Colour - Global,Global Hair Colour,Hair,False
+Highlights,Highlights,Hair,False
+Hair Highlights,Highlights,Hair,False
+HIGHLIGHTS - FULL,Highlights,Hair,False
+Hair Colour - Highlights,Highlights,Hair,False
+Keratin Treatment,Keratin Treatment,Hair,False
+Keratin,Keratin Treatment,Hair,False
+KERATIN TREATMENT (SHOULDER LENGTH),Keratin Treatment,Hair,False
+Keratin Smoothing,Keratin Treatment,Hair,False
+Hair Smoothening,Hair Smoothening,Hair,False
+Smoothening,Hair Smoothening,Hair,False
+HAIR SMOOTHENING,Hair Smoothening,Hair,False
+Smoothening Treatment,Hair Smoothening,Hair,False
+Hair Wash & Conditioning,Hair Wash & Conditioning,Hair,False
+Hair Wash,Hair Wash & Conditioning,Hair,False
+WASH + CONDITION,Hair Wash & Conditioning,Hair,False
+Wash & Condition,Hair Wash & Conditioning,Hair,False
+Head Massage,Head Massage,Hair,False
+Head Massage (Oil),Head Massage,Hair,False
+HEAD MASSAGE 20 MIN,Head Massage,Hair,False
+Champi / Head Massage,Head Massage,Hair,False
+Haircut - Men,Haircut - Men,Grooming,False
+Gents Hair Cut,Haircut - Men,Grooming,False
+HAIRCUT (M),Haircut - Men,Grooming,False
+Men's Haircut,Haircut - Men,Grooming,False
+Beard Trim,Beard Trim,Grooming,False
+Beard Shaping,Beard Trim,Grooming,False
+BEARD TRIM/SHAPE,Beard Trim,Grooming,False
+Beard Styling,Beard Trim,Grooming,False
+Shave,Shave,Grooming,False
+Clean Shave,Shave,Grooming,False
+SHAVE,Shave,Grooming,False
+Classic Shave,Shave,Grooming,False
+Hair Colour - Men,Hair Colour - Men,Grooming,False
+Gents Hair Colour,Hair Colour - Men,Grooming,False
+HAIR COLOR (M),Hair Colour - Men,Grooming,False
+Men's Hair Colour,Hair Colour - Men,Grooming,False
+Hair Spa - Men,Hair Spa - Men,Grooming,False
+Gents Hair Spa,Hair Spa - Men,Grooming,False
+HAIR SPA (M),Hair Spa - Men,Grooming,False
+Men's Hair Spa,Hair Spa - Men,Grooming,False
+Threading - Eyebrows,Threading - Eyebrows,Skin,False
+Eyebrow Threading,Threading - Eyebrows,Skin,False
+THREADING EYEBROW,Threading - Eyebrows,Skin,False
+Eyebrows (Threading),Threading - Eyebrows,Skin,False
+Threading - Upper Lip,Threading - Upper Lip,Skin,False
+Upper Lip Threading,Threading - Upper Lip,Skin,False
+THREADING UPPERLIP,Threading - Upper Lip,Skin,False
+Upper Lip (Threading),Threading - Upper Lip,Skin,False
+Clean-up,Clean-up,Skin,False
+Cleanup,Clean-up,Skin,False
+CLEAN UP (BASIC),Clean-up,Skin,False
+Express Clean-up,Clean-up,Skin,False
+Classic Facial,Classic Facial,Skin,False
+Fruit Facial,Classic Facial,Skin,False
+FACIAL - CLASSIC,Classic Facial,Skin,False
+Facial - Classic Glow,Classic Facial,Skin,False
+Gold Facial,Gold Facial,Skin,False
+Facial Gold,Gold Facial,Skin,False
+GOLD FACIAL (60 MIN),Gold Facial,Skin,False
+Facial - Gold Radiance,Gold Facial,Skin,False
+De-tan Pack,De-tan Pack,Skin,False
+D-Tan,De-tan Pack,Skin,False
+DETAN (FACE & NECK),De-tan Pack,Skin,False
+De-Tan Treatment,De-tan Pack,Skin,False
+Waxing - Full Arms,Waxing - Full Arms,Skin,False
+Full Arms Wax,Waxing - Full Arms,Skin,False
+WAX FULL ARMS (RICA),Waxing - Full Arms,Skin,False
+Arms Waxing (Full),Waxing - Full Arms,Skin,False
+Waxing - Full Legs,Waxing - Full Legs,Skin,False
+Full Legs Wax,Waxing - Full Legs,Skin,False
+WAX FULL LEGS (RICA),Waxing - Full Legs,Skin,False
+Legs Waxing (Full),Waxing - Full Legs,Skin,False
+Manicure,Manicure,Skin,False
+Manicure Classic,Manicure,Skin,False
+MANICURE,Manicure,Skin,False
+Classic Manicure,Manicure,Skin,False
+Pedicure,Pedicure,Skin,False
+Pedicure Classic,Pedicure,Skin,False
+PEDICURE,Pedicure,Skin,False
+Classic Pedicure,Pedicure,Skin,False
+Swedish Massage,Swedish Massage,Spa,False
+Body Massage - Swedish,Swedish Massage,Spa,False
+SWEDISH MASSAGE 60 MIN,Swedish Massage,Spa,False
+Massage - Swedish (60),Swedish Massage,Spa,False
+Aromatherapy Massage,Aromatherapy Massage,Spa,False
+Aroma Massage,Aromatherapy Massage,Spa,False
+AROMATHERAPY 60 MIN,Aromatherapy Massage,Spa,False
+Massage - Aromatherapy (60),Aromatherapy Massage,Spa,False
+Foot Reflexology,Foot Reflexology,Spa,False
+Foot Massage,Foot Reflexology,Spa,False
+REFLEXOLOGY (FOOT),Foot Reflexology,Spa,False
+Reflexology - Foot,Foot Reflexology,Spa,False
+Body Polish,Body Polish,Spa,False
+Body Polishing,Body Polish,Spa,False
+BODY POLISH,Body Polish,Spa,False
+Body Polish & Glow,Body Polish,Spa,False
+Party Makeup,Party Makeup,Occasion,False
+Party Make-up,Party Makeup,Occasion,False
+MAKEUP - PARTY,Party Makeup,Occasion,False
+Makeup - Party / Reception,Party Makeup,Occasion,False
+Saree Draping,Saree Draping,Occasion,False
+Saree Drape,Saree Draping,Occasion,False
+SAREE DRAPING,Saree Draping,Occasion,False
+Draping - Saree,Saree Draping,Occasion,False
+Mehendi,Mehendi,Occasion,False
+Mehandi,Mehendi,Occasion,False
+MEHENDI (BOTH HANDS),Mehendi,Occasion,False
+Henna / Mehendi,Mehendi,Occasion,False
+Bridal Makeup,Bridal Makeup,Occasion,False
+Bridal Make-up,Bridal Makeup,Occasion,False
+MAKEUP - BRIDAL (HD),Bridal Makeup,Occasion,False
+Makeup - Bridal,Bridal Makeup,Occasion,False
+Pre-bridal Package,Pre-bridal Package,Occasion,False
+Pre Bridal Pack,Pre-bridal Package,Occasion,False
+PRE-BRIDAL PACKAGE,Pre-bridal Package,Occasion,False
+Bridal Prep Package,Pre-bridal Package,Occasion,False
+Glow Combo - Cut + Spa,Glow Combo - Cut + Spa,Hair,True
+Combo: Haircut + Hairspa,Glow Combo - Cut + Spa,Hair,True
+GLOW COMBO (CUT+SPA),Glow Combo - Cut + Spa,Hair,True
+Combo - Haircut & Hair Spa,Glow Combo - Cut + Spa,Hair,True
+Glow Combo - Facial + Clean-up + Threading,Glow Combo - Facial + Clean-up + Threading,Skin,True
+Combo: Facial+Cleanup+Threading,Glow Combo - Facial + Clean-up + Threading,Skin,True
+GLOW COMBO (FACIAL+CU+TH),Glow Combo - Facial + Clean-up + Threading,Skin,True
+"Combo - Facial, Clean-up & Threading",Glow Combo - Facial + Clean-up + Threading,Skin,True
+Glow Combo - Mani + Pedi,Glow Combo - Mani + Pedi,Skin,True
+Combo: Mani+Pedi,Glow Combo - Mani + Pedi,Skin,True
+GLOW COMBO (MANI+PEDI),Glow Combo - Mani + Pedi,Skin,True
+Combo - Manicure & Pedicure,Glow Combo - Mani + Pedi,Skin,True
+Groom Combo - Haircut + Beard,Groom Combo - Haircut + Beard,Grooming,True
+Combo: Gents Cut+Beard,Groom Combo - Haircut + Beard,Grooming,True
+GROOM COMBO (CUT+BEARD),Groom Combo - Haircut + Beard,Grooming,True
+Combo - Men's Haircut & Beard,Groom Combo - Haircut + Beard,Grooming,True
